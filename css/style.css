@@ -203,8 +203,8 @@ h1, h2, h3, h4, h5, h6, figure {
   background-position: center center;
   background-repeat: no-repeat;
   position: relative;
-  height: 200px;
-  width: 200px;
+  height: 400px;
+  width: 400px;
   margin: 0 auto;
   margin-bottom: 30px;
   -webkit-border-radius: 50%;
@@ -222,7 +222,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-features {
-  background: #FF9000;
+  background: #3c423c;
 }
 #fh5co-features h2 {
   color: #fff;
@@ -308,7 +308,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .fh5co-bg-dark {
   background: #2F3C4F;
-  background: #FF9000;
+  background: #3c423c;
 }
 .fh5co-bg-dark .fh5co-heading h2 {
   color: #fff !important;
